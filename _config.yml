@@ -1,1 +1,20 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        nbWPuk Test SIte
+tagline:      A test site to learn Markdown, Jekyll and Github Pages
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Neil Batchelor
+  url:        https://nbwp.uk 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
